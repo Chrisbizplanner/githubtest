@@ -1,0 +1,9 @@
+{
+	"name": "wsadfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02c3ae1b-c8ab-4ed7-b591-7ff419545628",
+		"tenantId": "0f59b394-15c1-4fb4-8af4-716260cffb95"
+	}
+}
